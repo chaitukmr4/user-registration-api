@@ -12,3 +12,6 @@
 
 Postman collection
 + https://www.getpostman.com/collections/ad4a8799ea788c58cccb
+
+Running the application
++ go to the "src" folder and run the command "node app.js"
