@@ -15,3 +15,8 @@ Postman collection
 
 Running the application
 + go to the "src" folder and run the command "node app.js"
+
+Docker build
++ version used 10.17-alpine
++ docker build -t chaitukmr4/node-server-user-reg:1.0.0 .
++ docker run -p 3000:3000 -d chaitukmr4/node-server-user-reg:1.0.0
